@@ -1,0 +1,11 @@
+* Variables
+* Strings
+* Funciones (argumentos, `return`)
+* Declaraciones `if`
+* Valores booleanos (`true`, `false`)
+
+--Variables = es un valor que le se asigna a algo. pero como no savemos su valor y que puede variar dicho valor en el tiempo lo representamos en su mayoria con una letra. dicha letra el cual se le da un valor.
+--Strings = es una linea de caracteres bien sea letras o números quese usa para dar un mensaje.
+--funciones = son pequeños programas o comandos que se ejecutan para realisar una tarea espesifica dicha funcion tienen un argumento (valor de entrada) y un return (valor de salida).
+--Declaraciones "if" = es una funcion que sirve para evaluar una exprecion logica, verdadero o falso una comparacion. si es verdedero (true) se ejecuta una operacion y si es falso(False) se ejecuta otra operacion o termina.
+--Valores booleanos = es un tipo de dato logico, que solo puede ser comparado osea un valor binario, y representan verdadero (true) o falso (false).
