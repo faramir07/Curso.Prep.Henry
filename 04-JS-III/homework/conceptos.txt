@@ -1,0 +1,3 @@
+array
+
+--Array: es un objeto que se usa para la contrucion de una lista, en dicha lista puede contener distintos tipos de variables y operaciones dentro de la lista.
