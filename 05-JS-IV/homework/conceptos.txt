@@ -1,0 +1,11 @@
+* Objetos
+* Propiedades
+* Métodos
+* Bucle `for…in`
+* Notación de puntos vs notación de corchetes
+
+-- objetos: es una coleccion de datos que tienen una funcionalidad y se relacionan entre si. que constan de variables y funciones (propiedades y metodos) que estan dentro del opjeto.
+-- propiedades: e una variable el cual le se asignan valores dentro de un objeto.
+-- metodos: es una funcion que dentro de un objeto es llamado metodo.
+-- bucle "for...in": es una estructura de control que repite un bloque de Instrucciones
+-- Notación de puntos vs notación de corchetes: la direrncia esta en la forma de acceder a la propiedad siendo una mas facil que la otra al momento de escribir. con el punto es literal. con las llaves se pueden hacer mas cosas como rerrores el array.
