@@ -1,0 +1,5 @@
+* `prototype`
+* _Constructors_ (de Clases)
+
+-- `prototype`: cada objeto en javascript tiene un prototipo definido, a implementar un objeto contructor en la linea de codigo asu ves se crea un prototipo que contine los propiedades de dicho objeto, mejor dicho es como una plantilla a seguir.
+-- constructors: es un metodo que crea un objeto a pastir de una clase. 
