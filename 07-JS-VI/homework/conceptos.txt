@@ -1,0 +1,3 @@
+* Funciones Callback
+
+-- Funciones Callback: esla capacidad de pasar una funcion como argumento
